@@ -82,27 +82,17 @@ Real-time translator across 23+ languages with voice input, text-to-speech, auto
 
 ---
 
-### 🛠️ Tech Stack
+# ⚡ TECH STACK
 
-**Languages**
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js" alt="languages"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,react,mysql,git,github,vscode&perline=10"/>
+</div>
 
-**Frontend**
 
-<img src="https://skillicons.dev/icons?i=react" alt="frontend"/>
+</td>
 
-**Backend / Infra**
-
-<img src="https://skillicons.dev/icons?i=nodejs" alt="backend"/>
-
-**Cloud**
-
-<img src="https://skillicons.dev/icons?i=aws" alt="cloud"/>
-
-**AI / Data Tools**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,jupyter" alt="ai tools"/>
+<td width="50%">
 
 ---
 
