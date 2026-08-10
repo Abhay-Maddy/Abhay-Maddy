@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Electrical+Engineering+%2B+IoT;Exploring+AI%2FML+with+TensorFlow;React+%7C+Node.js+%7C+Python+%7C+AWS" />
 </p>
 <br>
+<img src="https://img.shields.io/badge/Status-%F0%9F%8E%AF%20Focusing-7dd3fc?style=for-the-badge"/>
 <img src="https://komarev.com/ghpvc/?username=Abhay-Maddy&label=Profile+Views&color=7dd3fc&style=for-the-badge"/>
 <a href="https://github.com/Abhay-Maddy">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -31,14 +32,28 @@ Role:
   - IoT Enthusiast
   - AI & ML Enthusiast
   - Data Science Explorer
+
 Education:
   Degree: B.Tech
   Branch: Electrical & Computer Engineering
   Institute: KIET Group of Institutions
   Graduation: 2028
-Current Mission:
+
+Stack:
+  Languages: [Python, JavaScript]
+  Frontend: [React]
+  Backend: [Node.js]
+  Cloud: [AWS]
+  AI/ML: [TensorFlow, Jupyter]
+
+Featured Projects:
+  - Disaster-Response-System — AI-powered emergency coordination platform
+  - Language-Translator — Real-time multilingual translator (23+ languages)
+
+Current Mission: >
   Build full stack web apps and IoT/AI-powered systems
   that solve real-world problems using Data, AI and Software.
+
 Status: Learning | Building | Growing 🚀
 ```
 
@@ -80,6 +95,17 @@ Real-time translator across 23+ languages with voice input, text-to-speech, auto
 | Deploy       | GitHub Pages                     | Local / .exe                |
 
 🔗 [Live](https://abhay-maddy.github.io/Language-Translator/) &nbsp;|&nbsp; 💻 [Code](https://github.com/Abhay-Maddy/Language-Translator)
+
+---
+
+### 📂 More Projects
+
+| Repo | Language | Link |
+| ---- | -------- | ---- |
+| Portfolio | CSS | [Code](https://github.com/Abhay-Maddy/Portfolio) |
+| Tic-Tac-Toe-Game | CSS | [Code](https://github.com/Abhay-Maddy/Tic-Tac-Toe-Game) |
+| Amazon-Clone | HTML | [Code](https://github.com/Abhay-Maddy/Amazon-Clone) |
+| Object-detection | Python | [Code](https://github.com/Abhay-Maddy/Object-detection) |
 
 ---
 
@@ -176,6 +202,18 @@ Real-time translator across 23+ languages with voice input, text-to-speech, auto
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay-Maddy&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" alt="Activity Graph"/>
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhay-Maddy/Abhay-Maddy/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhay-Maddy/Abhay-Maddy/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Abhay-Maddy/Abhay-Maddy/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 ---
