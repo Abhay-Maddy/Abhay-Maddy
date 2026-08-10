@@ -82,17 +82,27 @@ Real-time translator across 23+ languages with voice input, text-to-speech, auto
 
 ---
 
-# ⚡ TECH STACK
+### 🛠️ Tech Stack
 
-<div align="center">
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,react,mysql,git,github,vscode&perline=10"/>
-</div>
+<img src="https://skillicons.dev/icons?i=python,js" alt="languages"/>
 
+**Frontend**
 
-</td>
+<img src="https://skillicons.dev/icons?i=react" alt="frontend"/>
 
-<td width="50%">
+**Backend / Infra**
+
+<img src="https://skillicons.dev/icons?i=nodejs" alt="backend"/>
+
+**Cloud**
+
+<img src="https://skillicons.dev/icons?i=aws" alt="cloud"/>
+
+**AI / Data Tools**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,jupyter" alt="ai tools"/>
 
 ---
 
@@ -100,8 +110,8 @@ Real-time translator across 23+ languages with voice input, text-to-speech, auto
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhay-Maddy&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-Maddy&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Abhay-Maddy&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&cache_seconds=1800" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-Maddy&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&cache_seconds=1800" alt="Top Languages" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=Abhay-Maddy&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="Streak Stats"/>
 
@@ -110,7 +120,7 @@ Real-time translator across 23+ languages with voice input, text-to-speech, auto
 ### 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Abhay-Maddy&theme=nord&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Abhay-Maddy&theme=nord&no-frame=true&no-bg=true&row=1&column=7&cache_seconds=1800" alt="Trophies"/>
 </div>
 
 ### 📈 Contribution Activity
