@@ -29,9 +29,16 @@ Role:
   - Full Stack Developer
   - Electrical Engineering
   - IoT Enthusiast
+  - AI & ML Enthusiast
+  - Data Science Explorer
+Education:
+  Degree: B.Tech
+  Branch: Electrical & Computer Engineering
+  Institute: KIET Group of Institutions
+  Graduation: 2028
 Current Mission:
   Build full stack web apps and IoT/AI-powered systems
-  that solve real-world problems.
+  that solve real-world problems using Data, AI and Software.
 Status: Learning | Building | Growing 🚀
 ```
 
