@@ -216,6 +216,16 @@ Real-time translator across 23+ languages with voice input, text-to-speech, auto
 <img width="39%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhay-Maddy&theme=tokyonight"/>
 </div>
 
+---
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 ### 🏆 Trophies
 
 <div align="center">
