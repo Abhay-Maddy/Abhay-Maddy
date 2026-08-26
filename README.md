@@ -181,6 +181,30 @@ Real-time translator across 23+ languages with voice input, text-to-speech, auto
 
 ---
 
+## 🌐 Socials:
+
+<div align="center">
+
+<a href = "https://wa.me/qr/PZJCOCGNVNIAH1">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/abhay_maddy_/">
+<img src="https://img.shields.io/badge/Instagram-EA4335?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/abhay-maddy/">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://x.com/Abhay_Maddy_">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="mailto:[EMAIL_ADDRESS]">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</div>
+
+---
+
 # 📊 GITHUB STATS
 
 <div align="center">
@@ -204,33 +228,10 @@ Real-time translator across 23+ languages with voice input, text-to-speech, auto
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay-Maddy&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" alt="Activity Graph"/>
 </div>
 
-### 🐍 Contribution Snake
+<!-- Snake Game Repo View -->
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhay-Maddy/Abhay-Maddy/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhay-Maddy/Abhay-Maddy/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Abhay-Maddy/Abhay-Maddy/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-<a href="https://github.com/Abhay-Maddy">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://abhay-maddy.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-7dd3fc?style=for-the-badge&logo=googlechrome&logoColor=black"/>
-</a>
-<a href="https://x.com/Abhay_Maddy_">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-<a href="mailto:abhaymaddheshiya159@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <img src="https://github.com/Abhay-Maddy/Snake-Game/blob/main/snake.gif" alt="Snake animation" />
 </div>
 
 ---
